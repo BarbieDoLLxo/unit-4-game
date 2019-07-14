@@ -1,0 +1,36 @@
+h1 {
+
+text-align: center;
+color: blueviolet;
+
+
+
+
+
+}
+
+h2 {
+
+padding: 15%;
+
+
+
+}
+
+button {
+color: tomato;
+backface-visibility: inherit;
+
+padding: 0cm;
+
+
+
+
+
+}
+.container {
+
+    background-color: lightpink;
+    padding: 7%;
+
+}

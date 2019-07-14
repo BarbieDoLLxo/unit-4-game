@@ -1,6 +1,17 @@
+
+
+
+
+
+
+
+
+
+
 h1 {
 
 text-align: center;
+font-size: 40pt;
 color: blueviolet;
 
 
@@ -18,7 +29,7 @@ padding: 15%;
 }
 
 button {
-color: tomato;
+
 backface-visibility: inherit;
 
 padding: 0cm;

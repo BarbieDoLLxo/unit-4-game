@@ -1,29 +1,15 @@
-
-
-
-
-
-
-
-
-
-
 h1 {
 
 text-align: center;
 font-size: 40pt;
-color: blueviolet;
-
-
-
+color: rgb(43, 226, 104);
 
 
 }
 
 h2 {
-
+color: rgb(189, 8, 39)
 padding: 15%;
-
 
 
 }
@@ -34,14 +20,16 @@ backface-visibility: inherit;
 
 padding: 0cm;
 
-
-
-
-
 }
+
+
 .container {
 
     background-color: lightpink;
     padding: 7%;
 
+}
+body {
+
+    background-color: rgb(164, 11, 184);
 }

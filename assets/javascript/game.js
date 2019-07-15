@@ -14,8 +14,8 @@ $(document).ready(function() {
 
     diamond = Math.floor(Math.random() * 25);
     ruby = Math.floor(Math.random() * 70);
-    opal = Math.floor(Math.random() * 10);
-    emerald = Math.floor(Math.random() * 5);
+    opal = Math.floor(Math.random() * 17);
+    emerald = Math.floor(Math.random() * 33);
     console.log(diamond, ruby, opal, emerald, compGuess);
 
     $("#M").text("Match This Number " + compGuess);
